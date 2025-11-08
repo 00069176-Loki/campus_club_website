@@ -34,7 +34,7 @@ $events = [
 <nav class="main-nav" aria-label="Main navigation">
 
     <ul class="nav-links">
-        <li><a href="#">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href=events_list.php>Events</a></li>
         <li><a href="#">About Us</a></li>
         <li><a href="contact.html">Contact</a></li>
