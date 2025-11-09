@@ -43,7 +43,7 @@
 
       <li><a href="events_list.php">Events</a></li>
 
-      <li><a href="#">About Us</a></li> 
+      <li><a href="about_us.html">About Us</a></li> 
 
       <li><a href="contact.php">Contact</a></li> 
 
