@@ -192,6 +192,14 @@ body {
 
 }
 
+.main-column.right {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end; 
+  align-items: flex-start;   
+  padding-bottom: 80px;      
+}
+
 
 
 /* FOOTER */
