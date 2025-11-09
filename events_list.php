@@ -29,7 +29,7 @@ $events = [
 
 
 
-<!-- Navigation (Moved Below Hero Section) -->
+<!-- Navigation -->
 
 <nav class="main-nav" aria-label="Main navigation">
 
@@ -37,7 +37,7 @@ $events = [
         <li><a href="index.php">Home</a></li>
         <li><a href=events_list.php>Events</a></li>
         <li><a href="#">About Us</a></li>
-        <li><a href="contact.html">Contact</a></li>
+        <li><a href="contact.php">Contact</a></li>
     </ul>
 
 </nav>
@@ -68,7 +68,7 @@ $events = [
         <!-- Left: Logo -->
 
         <div class="footer-left">
-            <img src="img/site-logo-new.svg" alt="Campus Club logo" class="footer-logo"/>
+            <img src="Images/logo.png" alt="Campus Club logo" class="footer-logo"/> 
         </div>
 
 
@@ -77,10 +77,10 @@ $events = [
 
         <div class="footer-center">
             <ul class="footer-nav">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Events</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="events_list.php">Events</a></li>
                 <li><a href="#">About Us</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="contact.php">Contact</a></li>
             </ul>
         </div>
 

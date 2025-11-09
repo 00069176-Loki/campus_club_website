@@ -10,13 +10,10 @@
 
   <title>Campus Club Website</title> 
 
- 
 
   <!-- Stylesheet --> 
 
   <link rel="stylesheet" href="css/style.css" /> 
-
- 
 
   <!-- Font Awesome --> 
 
@@ -36,7 +33,7 @@
 
  
 
-    <!-- Navigation (Moved Below Hero Section) --> 
+    <!-- Navigation --> 
 
   <nav class="main-nav" aria-label="Main navigation"> 
 
@@ -48,7 +45,7 @@
 
       <li><a href="#">About Us</a></li> 
 
-      <li><a href="contact.html">Contact</a></li> 
+      <li><a href="contact.php">Contact</a></li> 
 
     </ul> 
 
@@ -108,7 +105,7 @@
 
       <div class="main-column right"> 
 
-      <a href="contact.html" target="_blank">
+      <a href="contact.php" target="_blank">
 
         <button class="action-btn">Join Now</button> 
 
@@ -154,7 +151,7 @@
 
           <li><a href="#">About Us</a></li> 
 
-          <li><a href="contact.html">Contact</a></li> 
+          <li><a href="contact.php">Contact</a></li> 
 
         </ul> 
 
