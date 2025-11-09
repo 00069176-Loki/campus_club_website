@@ -1,0 +1,16 @@
+[
+    {
+        "event_id": "2",
+        "event_name": "Food Drive",
+        "name": "dude",
+        "email": "something@gmail.com",
+        "student_id": "93939393"
+    },
+    {
+        "event_id": "1",
+        "event_name": "Community Cleanup",
+        "name": "Xavier",
+        "email": "00012034@my.costaatt.edu.tt",
+        "student_id": "00012034"
+    }
+]
